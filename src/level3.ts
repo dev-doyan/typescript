@@ -9,6 +9,6 @@ a=2;                       //a can only hold string or number
 console.log(a);
 
 
-type status= "pending" |"done";
-let work:status= "pending";
+type status= "panding" |"done";
+let work:status= "panding";
 console.log(work);
